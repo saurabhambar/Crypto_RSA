@@ -1,1 +1,1 @@
-# Crypto_RSA
+# Crypto_RSAProject proposed an implementation of a complete and practical RSA encrypt/decrypt solution on CARD PAYMENT SECURITY, the study of RSA public key algorithm. In addition, the encrypt procedure and code implementation is provided in details.
